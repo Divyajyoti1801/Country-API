@@ -1,0 +1,23 @@
+{
+  "name": "country-api",
+  "version": "1.0.0",
+  "description": "Extensive and detailed data on Countries",
+  "main": "index.js",
+  "scripts": {
+    "build": "./node_modules/netlify-lambda build src"
+  },
+  "keywords": [
+    "Netlify",
+    "JSON",
+    "Express.js",
+    "Node.js"
+  ],
+  "author": "Divyajyoti",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "netlify-lambda": "^2.0.16",
+    "serverless-http": "^3.2.0"
+  }
+}
