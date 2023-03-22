@@ -4,7 +4,6 @@
   "description": "Extensive and detailed data on Countries",
   "main": "index.js",
   "scripts": {
-    "build": "./node_modules/netlify-lambda build src"
   },
   "keywords": [
     "Netlify",
